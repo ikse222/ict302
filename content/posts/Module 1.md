@@ -9,19 +9,19 @@ draft: false
 
   A: My progress is editing this on GitHub and it succsessfully getting onto my website.
   
-I can describe and compare content management systems.
+2:I can describe and compare content management systems.
 
-  I do not believe we covered this topic in depth. certianly nothing of note to put here just yet.
+  A:I do not believe we covered this topic in depth. certianly nothing of note to put here just yet.
 
-I can manage content using established workflows.
+3:I can manage content using established workflows.
 
-  You have made a workflow for us by giving us a time and schedule for each group to meet. you have also given us a really well executed plan on how to go about learning each week online with everything on canvas.
+  A:You have made a workflow for us by giving us a time and schedule for each group to meet. you have also given us a really well executed plan on how to go about learning each week online with everything on canvas.
   
-I can indentify and employ technologues related to content management.
+4:I can indentify and employ technologues related to content management.
 
-  Personally, i am having a hard time distinguishing betweeen what is a content management system and what isn't but I am employing   my computer to content manage my personal Hugo website.
+  A:Personally, i am having a hard time distinguishing betweeen what is a content management system and what isn't but I am employing   my computer to content manage my personal Hugo website.
   
-I can find and use resources for self-directed learning.
+5:I can find and use resources for self-directed learning.
 
-  Yes. I read the readings and learned that i had questions. i even had to annotate a question for part of the project.
+  A:Yes. I read the readings and learned that i had questions. i even had to annotate a question for part of the project.
 
