@@ -1,4 +1,4 @@
-baseURL = "httpsupbeat-lalande-92e106.netlify.app"
+baseURL = "https://upbeat-lalande-92e106.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
