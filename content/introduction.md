@@ -6,4 +6,4 @@ draft: false
 ![This is me](https://upbeat-lalande-92e106.netlify.app/me.jpg/)
 This is going to be my intro. page. make a few paragraphs
 
-Hello. My name is Ian Sexton and i am from alot of places. i was born in Ohio but i have lived in Raimstien, Germany, then back to Ohio, then finally in Georgetown, Kentucky. i am 20 years old and i go to the University of Kentucky.
+Hello. My name is <b> Ian Sexton </b> and i am from alot of places. i was born in Ohio but i have lived in Raimstien, Germany, then back to Ohio, then finally in Georgetown, Kentucky. i am 20 years old and i go to the University of Kentucky.
