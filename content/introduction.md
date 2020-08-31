@@ -7,8 +7,7 @@ draft: false
 
 __Ian Sexton__
 
-<body>
 Hello. My name is **Ian Sexton** and i am from alot of places. i was born in Ohio but i have lived in Raimstien, Germany, then back to Ohio, then finally in Georgetown, Kentucky. i am 20 years old and i go to the University of Kentucky.In one more year i am going to be in the United States Air Force as a 2nd Leiutennant! Welcome to my page for ICT 302.
-</body>
+
 
 
