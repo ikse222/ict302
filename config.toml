@@ -40,3 +40,8 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
+[[menu.main]]
+name = "dummy annotated definitions"
+weight = 1
+url = "/dummy annotated definitions/"
+
