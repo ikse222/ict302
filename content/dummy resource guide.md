@@ -1,9 +1,9 @@
 ---
-title: "dummy annotated definitions"
+title: "dummy resource guide"
 date: 2020-08-24T00:00:00-04:00
 draft: false
 ---
-![This is me](https://upbeat-lalande-92e106.netlify.app/me.jpg/)
+![Leaf this guy alone](https://upbeat-lalande-92e106.netlify.app/leaf.jpg/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Libero volutpat sed cras ornare. Mauris augue neque gravida in fermentum et sollicitudin ac orci. In dictum non consectetur a erat nam. Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Fringilla ut morbi tincidunt augue interdum velit euismod in. Sit amet consectetur adipiscing elit. Nunc scelerisque viverra mauris in. Nibh cras pulvinar mattis nunc sed blandit libero. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Id venenatis a condimentum vitae sapien pellentesque. Fermentum iaculis eu non diam phasellus vestibulum. Varius vel pharetra vel turpis. Pellentesque nec nam aliquam sem et. Ut lectus arcu bibendum at varius.
 
