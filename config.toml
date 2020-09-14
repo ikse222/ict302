@@ -45,3 +45,12 @@ name = "dummy annotated definitions"
 weight = 1
 url = "/dummy annotated definitions/"
 
+[[menu.main]]
+name = "dummy resource guide"
+weight = 1
+url = "/dummy resource guide/"
+
+[[menu.main]]
+name = "dummy walkthrough"
+weight = 1
+url = "/dummy walkthrough/"
