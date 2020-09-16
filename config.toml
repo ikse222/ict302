@@ -1,7 +1,7 @@
 baseURL = "https://upbeat-lalande-92e106.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "m10c"
+theme = "hugo theme"
 
 [build]
 publish = "public"
