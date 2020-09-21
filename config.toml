@@ -40,6 +40,13 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
+[params.style]
+darkestColor = "#463625"
+  darkColor = "#2a3738"
+  lightColor = "#eee6a"
+  lightestColor = "#96a879"
+  primaryColor = "#ffffff"
+
 [[menu.main]]
 name = "dummy annotated definitions"
 weight = 1
