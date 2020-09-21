@@ -1,6 +1,6 @@
 baseURL = "https://upbeat-lalande-92e106.netlify.app"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ian Sexton's Hugo Site"
 theme = "hugo theme/hugo-theme-m10c-master"
 
 [build]
@@ -39,14 +39,6 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
-
- # Brown theme
-  #[params.style]
-  #  darkestColor = "#463625"
-  #  darkColor = "#2a3738"
-  #  primaryColor = "#eeee6a"
-  #  lightColor = "#96a879"
-  #  lightestColor = "#ffffff"
 
 [[menu.main]]
 name = "dummy annotated definitions"
