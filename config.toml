@@ -42,6 +42,14 @@ lightestColor = "#96a879"
 primaryColor = "#ffffff"
 
 [params]
+ author = "Ian Sexton"
+  description = "Hello! this is my website. Enjoy your stay."
+  [params.style]
+# darkestColor = "#463625"
+# darkColor = "#2a3738"
+# lightColor = "#eee6a"
+# lightestColor = "#96a879"
+# primaryColor = "#ffffff"
 [[menu.main]]
 name = "Introduction"
 weight = 1
