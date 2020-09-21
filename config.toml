@@ -37,14 +37,14 @@ HUGO_ENABLEGITINFO = "true"
 [params]
 
  author = "Ian Sexton"
-  description = "Hello! this is my website. Enjoy your stay."
-  
+ description = "Hello! this is my website. Enjoy your stay."
+ avatar = "avatar.jpg" 
 [params.style]
-darkestColor = "#463625"
-darkColor = "#2a3738"
-lightColor = "#eee6a"
-lightestColor = "#96a879"
-primaryColor = "#ffffff"
+ darkestColor = "#463625"
+ darkColor = "#2a3738"
+ lightColor = "#eee6a"
+ lightestColor = "#96a879"
+ primaryColor = "#ffffff"
 
 [[menu.main]]
 name = "Introduction"
