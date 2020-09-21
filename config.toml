@@ -34,18 +34,18 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[params.style]
+darkestColor = "#463625"
+darkColor = "#2a3738"
+lightColor = "#eee6a"
+lightestColor = "#96a879"
+primaryColor = "#ffffff"
+
 [params]
 [[menu.main]]
 name = "Introduction"
 weight = 1
 url = "/introduction/"
-
-[params.style]
-darkestColor = "#463625"
-  darkColor = "#2a3738"
-  lightColor = "#eee6a"
-  lightestColor = "#96a879"
-  primaryColor = "#ffffff"
 
 [[menu.main]]
 name = "dummy annotated definitions"
