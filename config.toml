@@ -38,6 +38,7 @@ HUGO_ENABLEGITINFO = "true"
 
  author = "Ian Sexton"
  description = "Hello! this is my website. Enjoy your stay."
+ avatar = (https://upbeat-lalande-92e106.netlify.app/pls.jpg/)
 
 [[menu.main]]
 name = "Introduction"
