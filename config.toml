@@ -38,13 +38,6 @@ HUGO_ENABLEGITINFO = "true"
 
  author = "Ian Sexton"
  description = "Hello! this is my website. Enjoy your stay."
- avatar = !(https://upbeat-lalande-92e106.netlify.app/avatar.jpg/)
-[params.style]
- darkestColor = "#463625"
- darkColor = "#2a3738"
- lightColor = "#eee6a"
- lightestColor = "#96a879"
- primaryColor = "#ffffff"
 
 [[menu.main]]
 name = "Introduction"
